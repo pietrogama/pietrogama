@@ -12,7 +12,7 @@
   
 <div style="display: inline_block"><br>
   <img align="center" alt="pips-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg%22%3E
-  <img align="right" alt="pips-gif" src="https://cdn.discordapp.com/attachments/789945630176313346/939914391091052554/Webp.net-gifmaker_3.gif
+  <img align="right" alt="pips-gif" src="https://cdn.discordapp.com/attachments/789945630176313346/939914391091052554/Webp.net-gifmaker_3.gif"
 
 ##
   
