@@ -10,11 +10,12 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pietrogama&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
+
 <div style="display: inline_block"><br>
-  <img align="center" alt="Saulo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Saulo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Saulo-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/871486413378580520/939870027681775626/ansbm.gif%22%3E
-</div>
+  <img align="center" alt="pips-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg%22%3E
+  <img align="right" alt="pips-gif" src="https://cdn.discordapp.com/attachments/789945630176313346/938906814714642502/Webp.net-gifmaker_3.gif%22%3E
+
+##
   
   ##
   
