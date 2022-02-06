@@ -1,4 +1,4 @@
-## Olá! Me chamo Pietro Gama
+## Olá! Me chamo Pietro Gama oi
 
 - 🔭 Atualmente estou no 2º semestre de Ciências da Computação na UNIFOR - Universidade de Fortaleza.
 - 🌱 Estudando JAVA e Javascript.
