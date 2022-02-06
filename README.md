@@ -10,14 +10,11 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pietrogama&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
-
 <div style="display: inline_block"><br>
   <img align="center" alt="pips-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg%22%3E
-  <img align="right" alt="pips-gif" src="https://cdn.discordapp.com/attachments/789945630176313346/938906814714642502/Webp.net-gifmaker_3.gif%22%3E
+  <img align="right" alt="pips-gif" src="https://cdn.discordapp.com/attachments/789945630176313346/939914391091052554/Webp.net-gifmaker_3.gif
 
 ##
-  
-  ##
   
   <div> 
   <a href="https://www.youtube.com/c/pietro10gamer/videos" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
