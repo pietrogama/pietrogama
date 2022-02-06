@@ -5,9 +5,11 @@
 - 💬 Entre em contato através do e-mail: pietromedeiros7@gmail.com
 
 <div align="center">
-  <a href="https://github.com/pietrogama%22%3E
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pietrogama&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true%22/%3E
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pietrogama&layout=compact&langs_count=7&theme=tokyonight%22/%3E
+  <a href="https://github.com/pietrogama">
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=pietrogama&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pietrogama&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=pietrogama&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pietrogama&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
 <div style="display: inline_block"><br>
