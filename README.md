@@ -1,7 +1,7 @@
 ## Olá! Me chamo Pietro Gama
 
-- 🔭 Atualmente estou no 4º semestre de Ciências da Computação na UNIFOR - Universidade de Fortaleza.
-- 🌱 Possuo experiência com java, Javascript, Kotlin e AndroidStudio.
+- 🔭 Atualmente estou no 5º semestre de Ciências da Computação na UNIFOR - Universidade de Fortaleza.
+- 🌱 Possuo experiência com java, Javascript, Kotlin, Android Studio, Python.
 - 💬 Entre em contato através do e-mail: pietromedeiros7@gmail.com
 
 <div align="center">
